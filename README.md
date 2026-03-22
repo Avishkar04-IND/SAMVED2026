@@ -47,20 +47,5 @@ Team Phoenix_26 🔥
 
 ---
 
-### Step 7 — Add Your YouTube Link
-
-Once your video is uploaded to YouTube:
-1. Open your README on GitHub
-2. Click ✏️ edit
-3. Replace `YOUR YOUTUBE LINK HERE` with your actual video URL
-4. Click **Commit changes**
-
----
-
-### ⚠️ One Important Thing
-
-Before uploading, create a `.gitignore` file in your project folder and add:
-```
-node_modules/
 .env
 .firebase/
