@@ -44,6 +44,3 @@ Pilot → Zone Expansion → Full City
 Built with purpose. For the workers of Solapur.  
 Team Phoenix_26 🔥
 ```
-
-.env
-.firebase/
